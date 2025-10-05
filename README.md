@@ -1,1 +1,1 @@
-# odin_recipes
+This is a practice on cloning as well as an intro to setting up a recipe website.
